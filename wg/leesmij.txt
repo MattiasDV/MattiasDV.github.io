@@ -1,0 +1,6 @@
+copy van 
+https://raw.githubusercontent.com/tteck/Proxmox/main/ct/wireguard.sh
+en
+https://raw.githubusercontent.com/tteck/Proxmox/main/misc/build.func
+
+maar aangepast zodat het werkt op proxmox 8.4.x
